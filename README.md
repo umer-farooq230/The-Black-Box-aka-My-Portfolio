@@ -70,23 +70,7 @@ Automates fetching jobs from top job posters and make a personalized dashboard w
 **🔗 Repo:** [resume-matcher](https://github.com/umer-farooq230/Career-Crawler)
 
 ---
-
-### 5. YouTube Comment Analyzer
-**Description:**  
-Scrapes comments from any YouTube video and analyzes them for sentiment, key topics, top comments, and content suggestions. Complete with a Streamlit dashboard.
-
-**Tech Stack:**  
-`Python`, `YouTube API`, `NLTK`, `TextBlob`, `matplotlib`, `seaborn`, `Streamlit`
-
-**Problem:**  
-Creators struggle to understand what viewers are really saying across thousands of comments.
-
-**Solution:**  
-Extracts actionable insights and visual summaries from viewer feedback, pain points, and ideas.
-
-**🔗 Repo:** [youtube-comment-analyzer](https://github.com/yourusername/youtube-comment-analyzer)
-
----
+  
 
 
 ## 🛠️ About This Repo
